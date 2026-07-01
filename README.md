@@ -30,6 +30,8 @@ Internship/
 ├── Models
 ├── Jupyter Notebooks
 └── Requirements
+
+
 🚀 Getting Started
 Clone the repository:
 git clone https://github.com/Adarshmbccet/srishti.git
@@ -43,6 +45,7 @@ Data visualization and analysis
 Model evaluation and deployment
 Web application development
 Version control with Git and GitHub
+
 👨‍💻 Author
 
 Adarsh Vijayakumar
