@@ -1,0 +1,27 @@
+{
+    "Pclass": {
+        "min": 1,
+        "max": 3,
+        "default": 2
+    },
+    "Age": {
+        "min": 0,
+        "max": 80,
+        "default": 30
+    },
+    "SibSp": {
+        "min": 0,
+        "max": 8,
+        "default": 0
+    },
+    "Parch": {
+        "min": 0,
+        "max": 6,
+        "default": 0
+    },
+    "Fare": {
+        "min": 0,
+        "max": 600,
+        "default": 50
+    }
+}

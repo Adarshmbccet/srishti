@@ -1,0 +1,17 @@
+{
+    "model_type": "Random Forest",
+    "accuracy": 0.8212290502793296,
+    "feature_names": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked"
+    ],
+    "target_names": [
+        "Did Not Survive",
+        "Survived"
+    ]
+}

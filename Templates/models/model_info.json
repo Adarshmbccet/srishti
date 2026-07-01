@@ -1,0 +1,12 @@
+{
+    "model_type": "Logistic Regression",
+    "accuracy": 0.925,
+    "feature_names": [
+        "Age",
+        "EstimatedSalary"
+    ],
+    "target_names": [
+        "Not Purchased",
+        "Purchased"
+    ]
+}

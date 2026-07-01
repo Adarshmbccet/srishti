@@ -1,0 +1,12 @@
+{
+    "Age": {
+        "min": 18,
+        "max": 60,
+        "default": 37
+    },
+    "EstimatedSalary": {
+        "min": 15000,
+        "max": 150000,
+        "default": 69742
+    }
+}
